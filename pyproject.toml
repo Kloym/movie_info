@@ -19,6 +19,7 @@ six = "^1.17.0"
 soupsieve = "^2.7"
 tornado = "^6.5.1"
 urllib3 = "^2.5.0"
+translate = "^3.6.1"
 
 
 [build-system]
