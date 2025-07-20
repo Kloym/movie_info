@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "movie-info"
+version = "0.1.0"
+description = ""
+authors = ["Kloym <oleg.petr1223@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+apscheduler = "^3.11.0"
+beautifulsoup4 = "^4.13.4"
+certifi = "^2025.7.14"
+python-dateutil = "^2.9.0.post0"
+python-decouple = "^3.8"
+python-telegram-bot = "^22.2"
+pytz = "^2025.2"
+requests = "^2.32.4"
+six = "^1.17.0"
+soupsieve = "^2.7"
+tornado = "^6.5.1"
+urllib3 = "^2.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
